@@ -20,16 +20,14 @@
         <h2>The shocking power of static pages</h2>
       </section>
       <nav class="main-nav">
-        <!-- TODO: Add a hamburger menu icon here. -->
+        <a href="#menu"><img src="styles/images/threelines.png" class="mobile-trigger" alt=""></a>
+        <!-- DONE: Add a hamburger menu icon here. -->
         <!-- We know this is wrapped in a nav class of 'main nav'. Have an image, class of mobile-trigger or whatever
       src of hamburger.png <img class="mobile-trigger" src="hamburger.png"> google css hamburger menu and css tricks it
       when you add that image, you want the hamburger to be visible, but you don't want the nav to be visible out of the box
       the ul has a display of none and the hamburger has a display of block.  Then, as you start to move outward, you switch it.
       the hamburger then has a display of none and the nav has a display of block.  Attach a click event to the hamburger menu that
-      shows the nav when it's clicked.
-      $('trigger').on('click'; function(){
-      $('nav ul').toggle();
-      }) -->
+      shows the nav when it's clicked. -->
         <ul>
           <li class="tab" data-content="articles"><a href="#" class="icon-home"> Home</a></li>
           <li class="tab" data-content="about"><a href="#" class="icon-address-book"> About</a></li>
@@ -83,7 +81,6 @@
     <footer>
       &copy; 2015 Code Fellows | Static Blog | Happy Ipsum!
     </footer>
-
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="scripts/blogArticles.js"></script>
     <script src="scripts/article.js"></script>
