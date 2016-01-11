@@ -17,6 +17,11 @@ Article.prototype.toHtml = function() {
        Convert markdown to HTML
        Render "HTML snippet" and return it
     */
+    var template = Handlebars.compile($('#article-template').text())
+    this.daysAgo = parseInt((new Date() - new Date(this.publishedOn))/60/60/24/1000);
+    this.publishStatus = this.publishedOn ? 'published ' + this.daysAgo + ' days ago' : '(draft)';
+    this.body = marked(this.body);
+    return (template(this));
 };
 
 
