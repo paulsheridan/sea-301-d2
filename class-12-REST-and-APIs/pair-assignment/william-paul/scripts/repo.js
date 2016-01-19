@@ -4,13 +4,15 @@
   repos.all = [];
 
   repos.requestRepos = function(callback) {
-    // TODO: How would you like to fetch your repos? Don't forget to call the callback.
+    // DONE: How would you like to fetch your repos? Don't forget to call the callback.
 
-    var qs = '?per_page=100&sort=updated';
-    $.get('/github/users/paulsheridan/repos' + qs)
-    .done(function(data, message, xhr){
-      console.log('repo data: ' + data);
+    $.ajax({
+      url: 'https://api.github.com/users/paulsheridan/repos' + '?per_page=100&sort=updated',
+      type: 'GET',
+      headers: {'Authorization': 'token ' + githubToken },
+      success: function(data, message, xhr) {
       repos.all = data;
+      }
     })
     .done(callback);
   };
