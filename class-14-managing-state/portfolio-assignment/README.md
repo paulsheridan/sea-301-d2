@@ -4,5 +4,6 @@ In our blog, we used middleware to intercept our routes and control the view lay
 
 ## Technical Requirements and Grading Rubric
  - Ensure your code passes ESLint.
- - Use middleware to manage state and access resources and parameters defined in your routes.
+ - Use middleware to manage state
+ - Use middleware to access resources based on parameters defined in your routes.
  - Use functional programming to refactor any relevant view specific methods.
