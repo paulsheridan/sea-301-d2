@@ -67,7 +67,7 @@ The individual portion of your grade is based on your individual contributions a
     * Has at least two pages that accept and process user input
     * Application state persists between page loads.
     * Deployed live on the Internet. Suggestions: heroku, surge.sh, or your own web hosting service.
-    * *Include a short video clip* (10 to 20 seconds in duration) that contains audio and video content. The video must be related to your web app, or introduces your team. Video playback controls must be enabled. Incorporate video using one of the following options:
+    * **Include a short video clip** (10 to 20 seconds in duration) that contains audio and video content. The video must be related to your web app, or introduces your team. Video playback controls must be enabled. Incorporate video using one of the following options:
      * &nbsp; &nbsp; For video you found online, use the &lt;video&gt; element.
      * &nbsp; &nbsp; For video that you created and uploaded to a 3rd party video server such as YouTube, use &lt;iframe&gt;, then in your Canvas submission for this assignment, describe how your created and uploaded the video.
      * &nbsp; &nbsp; Animate your own video or animation inside &lt;canvas&gt;.
