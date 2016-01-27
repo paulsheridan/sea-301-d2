@@ -17,11 +17,18 @@ In Canvas, find the "Final Project Main Assignment" and make your submission *af
  * What lessons did you learn from this experience?
 
 ## Grade
-Your grade is based on your individual results [60 pts] and your project's technical merit [35 pts] and team's final presentation [5 pts].
+Your grade is the sum of the following three grades:
+* Your individual contributions [60 pts]
+* Your project's technical merit [35 pts]
+* Your team's final presentation [5 pts]
+
+The team portion of your grade is the grade for your project's technical merit. Every member of your team will receive the same number of points.
+
+The individual portion of your grade is based on your individual contributions and your comments during your team's final presentation.
 
 * Each member is graded individually based on meaningful contributions in HTML, CSS, and JavaScript/jQuery. Contributions must be tracked using git commits. Be sure your **links to commits and Pull Requests** demonstrate your contributions.
 * Your individual grade depends on the following criteria:
- * [42 pts] Javascript contributions
+ * [40 pts] Javascript contributions
  * [5 pts] HTML code
  * [5 pts] CSS code
  * [2 pts] extra credit for each of the following items:
