@@ -41,7 +41,7 @@ The individual portion of your grade is based on your individual contributions a
  * **Obvious MVC/REST architecture**
     * Single-page application; all app "pages" have bookmark-able routes in the URL
     * Clearly defined Resources in the app
-    * Resource data is persisted by a **database** (you app should save/retrieve at least some data using **SQL commands**)
+    * Resource data is persisted by a **database** (the app saves and retrieves at least some of the persistent data using **SQL commands**)
     * Resources have well-factored and isolated M, V, C components
     * URLs use conventional REST design
  * **Proper use of HTML**
