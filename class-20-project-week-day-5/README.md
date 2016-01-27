@@ -32,9 +32,9 @@ The individual portion of your grade is based on your individual contributions a
  * [5 pts] HTML code
  * [5 pts] CSS code
  * [2 pts] extra credit for each of the following items:
-  * CSS keyframe animations
-  * SVG graphics manipulation using Javascript or CSS
-  * Third party animation libraries such as jQuery mobile or velocity.js
+  * &nbsp; &nbsp; CSS keyframe animations
+  * &nbsp; &nbsp; SVG graphics manipulation using Javascript or CSS
+  * &nbsp; &nbsp; Third party animation libraries such as jQuery mobile or velocity.js
  * [8 pts] Answers to questions/instructions in this assignment. Submit links to commits and pull requests that demonstrate your contributions. Activities tracked by the links must show that you committed work every day of the week. Describe each link in terms of the tasks you accomplished.
 
 * Your project's technical merit is graded based on the following criteria:
@@ -68,9 +68,9 @@ The individual portion of your grade is based on your individual contributions a
     * Application state persists between page loads.
     * Deployed live on the Internet. Suggestions: heroku, surge.sh, or your own web hosting service.
     * Include a short video clip (10 to 20 seconds in duration) that contains audio and video content. The video must be related to your web app, or introduces your team. Video playback controls must be enabled. Incorporate video using one of the following options:
-     * For video you found online, use the &lt;video&gt; element.
-     * For video that you created and uploaded to a 3rd party video server such as YouTube, use %lt;iframe%gt;, then in your Canvas submission for this assignment, describe how your created and uploaded the video.
-     * Animate your own video or animation inside &lt;canvas&gt;.
+     * &nbsp; &nbsp; For video you found online, use the &lt;video&gt; element.
+     * &nbsp; &nbsp; For video that you created and uploaded to a 3rd party video server such as YouTube, use &lt;iframe&gt;, then in your Canvas submission for this assignment, describe how your created and uploaded the video.
+     * &nbsp; &nbsp; Animate your own video or animation inside &lt;canvas&gt;.
      * Extra credit [+2 pts]: Use Javascript to show/hide closed captions in the video, and describe in your comments the difference between closed captions and subtitles.
     * Avoids race condition bugs by using appropriate callback design. Alternatives to chained callbacks are synchronization mechanisms (see extra credit item, next).
     * [+5 pts. E.C.] Uses jQuery deferred objects or Javascript Promises to avoid race conditions related to async events such as page load, client-side routing, AJAX responses, user input events, and timers.
