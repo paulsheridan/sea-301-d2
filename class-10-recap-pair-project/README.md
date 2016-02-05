@@ -30,4 +30,6 @@ Write your own user stories as you explore the new code base.
  - [Amy Lightening Talk](https://youtu.be/_bnp52YUWLw)
  - [Jared & Paul Lightening Talk](https://youtu.be/vbd0V6TSiDw)
  - [Al Singing](https://youtu.be/4zJyZbF4sJ8)
- - [Nadia Lightening Talk]()
+ - [Nadia Lightening Talk](https://youtu.be/HTG3GyclR4s)
+ - [CSS with Brian Part 1 of 2](https://youtu.be/7Ty7i5B_8eU)
+ - [CSS with Brian Part 1 of 2](https://youtu.be/dnrkGrG-l34)
