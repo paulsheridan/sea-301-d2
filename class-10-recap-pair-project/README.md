@@ -23,8 +23,11 @@ Write your own user stories as you explore the new code base.
  - Use AJAX to load any significant data sources.  - Cache data where appropriate.
 
 ## Class Videos
- - [Part 1 of 4]()
- - [Part 2 of 4]()
- - [Part 3 of 4]()
- - [Part 4 of 4]()
+ - [Part 1 of 4](https://youtu.be/Yo9YQH59hg4)
+ - [Part 2 of 4](https://youtu.be/h9naoCC1PnA)
+ - [Part 3 of 4](https://youtu.be/pa7bCFr4LTY)
+ - [Part 4 of 4](https://youtu.be/RGHCUWU_laQ)
  - [Amy Lightening Talk](https://youtu.be/_bnp52YUWLw)
+ - [Jared & Paul Lightening Talk](https://youtu.be/vbd0V6TSiDw)
+ - [Al Singing](https://youtu.be/4zJyZbF4sJ8)
+ - [Nadia Lightening Talk]()
